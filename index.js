@@ -1,3 +1,6 @@
+/**
+ * @see https://candyframework.github.io/candyjs-guide/
+ */
 const CandyJs = require('candyjs');
 const App = require('candyjs/web/Application');
 
