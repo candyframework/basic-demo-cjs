@@ -1,0 +1,6 @@
+{
+    "ignore": ["public/"],
+    "delay": 1000,
+    "watch": ["app/"],
+    "ext": "js,json"
+}
