@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@candyjs/template-hbs": "^1.0.3",
     "candyjs": "^4.17.0"
   },
   "devDependencies": {

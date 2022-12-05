@@ -5,7 +5,10 @@ const Controller = require('candyjs/web/Controller');
 class IndexController extends Controller {
 
     run(req, res) {
-        this.render('index');
+        this.getView().enableLayout = true;
+        this.render('index', {
+            content: 'Hello CandyJs.'
+        });
     }
 
 }
