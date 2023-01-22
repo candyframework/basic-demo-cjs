@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@candyjs/template-hbs": "^1.0.3",
-    "candyjs": "^4.17.0"
+    "@candyjs/template-hbs": "^1.0.5",
+    "candyjs": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
